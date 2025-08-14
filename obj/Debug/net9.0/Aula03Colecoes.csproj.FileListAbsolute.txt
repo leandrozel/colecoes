@@ -1,0 +1,4 @@
+D:\Aula03Colecoes\obj\Debug\net9.0\Aula03Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula03Colecoes\obj\Debug\net9.0\Aula03Colecoes.AssemblyInfoInputs.cache
+D:\Aula03Colecoes\obj\Debug\net9.0\Aula03Colecoes.AssemblyInfo.cs
+D:\Aula03Colecoes\obj\Debug\net9.0\Aula03Colecoes.csproj.CoreCompileInputs.cache
